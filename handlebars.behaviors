@@ -1,0 +1,7 @@
+{:+ {:app [(:lt.objs.plugins/load-js "handlebars-mode.js" true)]
+
+      :files [(:lt.objs.files/file-types [{:exts [:hbs],
+                                        :mime "text/x-handlebars",
+                                        :name "Handlebars",
+                                        :tags [:editor.hbs]}])]
+}}

@@ -1,0 +1,5 @@
+{:name "Handlebars Syntax"
+ :author "Matt Ma"
+ :source "https://github.com/mattma/LightTable-Handlebars"
+ :desc "Handlebars syntax for Light Table editor"
+ :behaviors "handlebars.behaviors"}
